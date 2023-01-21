@@ -1,0 +1,35 @@
+# Created: 2022-05-03T20:36:51.557233
+# PINT_version: 0.8.5
+# User: meo
+# Host: portabile3.home-life.hub
+# OS: macOS-10.16-x86_64-i386-64bit
+# Format: pint
+PSR                               M82_X-2
+EPHEM                               DE421
+START              56699.5093555813023549
+FINISH             56701.9969754431663027
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                    0
+CHI2                                  0.0
+RAJ                      9:55:51.04010000
+DECJ                    69:40:45.49010000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0                  0.7286092686964023013
+F1              1.0445956682844393896e-10
+PEPOCH             56700.7531552320870105
+PLANET_SHAPIRO                          N
+BINARY                               ELL1
+PB                               2.532971
+PBDOT                            -5.4e-08
+A1                                 22.215
+A1DOT                                 0.0
+TASC               56682.0669000000000000 0 0.0
+EPS1                                  0.0
+EPS2                                  0.0
+TZRMJD             56699.5093620635053249
+TZRSITE                               ssb
+TZRFRQ                                inf
+
